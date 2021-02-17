@@ -2424,21 +2424,22 @@
          "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":2522,
-         "source":"tsx\/logos-1.tsx"
-        }, 
-        {
-         "firstgid":2522,
-         "source":"tsx\/logos-2.tsx"
-        }, 
-        {
-         "firstgid":2522,
-         "source":"..\/isp-github\/ISP\/tsx\/isp-logo.tsx"
+         "image":"..\/isp-github\/ISP\/tilesets\/isp-logo.png",
+         "imageheight":500,
+         "imagewidth":500,
+         "margin":0,
+         "name":"isp-logo",
+         "spacing":0,
+         "tilecount":225,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":46,
          "firstgid":2747,
-         "image":"..\/isp-github\/ISP\/tilesets\/logos-1.png",
+         "image":"tilesets\/logos-1.png",
          "imageheight":700,
          "imagewidth":1500,
          "margin":0,
